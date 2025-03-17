@@ -1,0 +1,12 @@
+{
+  "name": "twc-test-web",
+  "version": "1.0.0",
+  "description": "This is the frontend of the **TWC Contacts Portal App**, a simple full-stack application that allows users to manage contacts. The UI is built using **React.js**, powered by **Next.js/Vite**, and styled with **TailwindCSS**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
